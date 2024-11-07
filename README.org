@@ -1,0 +1,7 @@
+* KB AI Data Hackathon
+
+_Prazska Smetanka_
+
+
+Customer segmentation and recommendation app
+
