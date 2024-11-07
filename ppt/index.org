@@ -1,7 +1,6 @@
-#+AUTHOR: Prazska Smetanka
+#+AUTHOR: Pražská Smetánka
 #+TITLE: Segmentation & Prediction
 #+DATE: 2024-11-08
-#+SUBTITLE: Team: Prazska Smetanka
 #+EMAIL: www.kbai.qn.cz
 #+CREATED: 2024-11-08
 #+LITERAL: 12%
@@ -15,9 +14,12 @@
 #+REVEAL_INIT_OPTIONS: slideNumber:true
 
 * Introduction
-** Greeting and Team Introduction
-  - Brief introduction of team members
-  - Project name and its significance
+** Team Members
+  - Adam
+  - Hung
+  - Kristian
+  - Lubos
+  - Stepan
 
 * Problem Statement
 ** Identify the Problem
