@@ -1,7 +1,9 @@
 * KB AI Data Hackathon
 
-_Prazska Smetanka_
+_Customer segmentation and recommendation app_
+
+_by Prazska Smetanka_
 
 
-Customer segmentation and recommendation app
+[[https://skippy8.github.io/kbaihack/ppt/][Hackathon Presentation]]
 
