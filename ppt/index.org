@@ -19,26 +19,28 @@
 
 * Problem
 ** Low user engagement
-*** Expensive advertising
-*** Low conversion rates
-*** Inefficient Up Sell & Cross Sell
+*** 1. Expensive advertising
+*** 2. Low conversion rates
+*** 3. Inefficient Up Sell & Cross Sell
 
 * Solution
 ** SRE Bot
-*** Efficient user engagement
-*** Understand user behavior
-*** Increase marketing efficiency
+*** 1. Understand users affinity
+*** 2. Higher conversion rates
+*** 3. Increased marketing efficiency
 
 * Key Features
 ** Segmentation
 [[./segmentation.png]]
 
 ** Recommendation
-*** Users segmented by affinity to various 
-*** Dynamic engagement calculation
+- Dynamic engagement calculation
 
 ** User Interface
-
+** 
+[[./ui1.png]]
+** 
+[[./ui2.png]]
 
 * Technical Details
 ** Architecture
@@ -50,19 +52,17 @@
 ** Scalability
   - Batch data processing
 
-* Demonstration
-** Live Demo
-
 * Benefits and Impact
 ** User Benefits
-  - Less spam advertising
+  - Less "spam" advertising
 ** Business Benefits
   - More efficient ad spend
+  - Higher customer engagement
 
 * Challenges and Solutions
 ** Development Challenges
   - Time constrains
-  - Learn Spark & AWS
+  - Learn new technology
   - Find efficient model
 ** Solutions
   - Sleepless nights
@@ -70,17 +70,16 @@
 
 * Future Work
 ** Improvements and Enhancements
-  - Apps (IB, Mobile, etc.)
-  - UI communication channels (Banners, SMS, Email, IM, etc.)
-  - External services (AdWords re-targeting, etc.)
+*** Apps integration (IB, Mobile, etc.)
+*** More communication channels (Banners, SMS, Email, IM, etc.)
+*** External services (AdWords re-targeting, etc.)
 ** Scaling and Implementation Plan
-  - Real-time data processing
+*** Real-time data processing
 
-* Conclusion
-** Summary
-  - Architecture design
-  - Data model(s) created
-  - Sample UI design created
+*  Summary
+*** Architecture designed
+*** Data model(s) created
+*** Sample UI design created
 
 * Q&A
 
