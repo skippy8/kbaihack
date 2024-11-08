@@ -1,5 +1,5 @@
 #+AUTHOR: Pražská Smetánka
-#+TITLE: Segmentation & Prediction
+#+TITLE: SRE Bot
 #+DATE: 2024-11-08
 #+EMAIL: www.kbai.qn.cz
 #+CREATED: 2024-11-08
