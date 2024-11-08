@@ -25,7 +25,7 @@
 
 * Solution
 ** SRE Bot
-*** 1. Understand users affinity
+*** 1. Understand user's affinity
 *** 2. Higher conversion rates
 *** 3. Increased marketing efficiency
 
@@ -58,15 +58,6 @@
 ** Business Benefits
   - More efficient ad spend
   - Higher customer engagement
-
-* Challenges and Solutions
-** Development Challenges
-  - Time constrains
-  - Learn new technology
-  - Find efficient model
-** Solutions
-  - Sleepless nights
-  - ChatGPT
 
 * Future Work
 ** Improvements and Enhancements
