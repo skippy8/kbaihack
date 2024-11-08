@@ -14,8 +14,19 @@
 #+REVEAL_INIT_OPTIONS: slideNumber:true
 
 * Team Members
+#+BEGIN_NOTES
+- Adam
+- Hung
+- Lubos
+- Patrik
+- Stepan
+#+END_NOTES
 ** 
-[[./team.jpg]]
+:PROPERTIES:
+:reveal_background: ./team.jpg
+:reveal_background_size: 1200px
+:reveal_background_trans: slide
+:END:
 
 * Problem
 ** Low user engagement
